@@ -47,10 +47,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.github.com/sartajhajam/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sartajhajam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/saj_hjm/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:hajamsaj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.github.com/sartajhajam/"><img alt="Website" src="https://img.shields.io/badge/Website-www.github.com/sartajhajam-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/sartajhajam/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedInsartajhajam-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/saj_hjm/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saj_hjm-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:hajamsaj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hajamsaj@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [sartaj-hajam](https://github.com/sartajhajam)
