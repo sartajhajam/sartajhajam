@@ -65,22 +65,16 @@
 </tr>
 </table>
 ---
-### 🏆 GitHub Trophies
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sartajhajam&theme=onedark&no-frame=true&margin-w=10" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sartajhajam&theme=tokyonight&show_icons=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartajhajam&theme=tokyonight&layout=compact" />
 </p>
 
 ---
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://github.com/sartajhajam/github-metrics/blob/main/github-metrics.svg" alt="Metrics" width="100%"/>
-</p>
-
-
----
 ### 🤝 Connect with Me
 
 <p align="center">
