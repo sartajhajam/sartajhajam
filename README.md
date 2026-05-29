@@ -3,7 +3,7 @@
 ---
 
 ### 👨🏻‍💻 About Me  
-- DevOps & MLOps Engineer passionate about automating, deploying, and scaling intelligent systems.  
+- Software Engineer passionate about building , automating, deploying, and scaling intelligent systems.  
 - Experienced in CI/CD, Infrastructure as Code, container orchestration, and cloud-native development.  
 - Skilled in building ML pipelines, model serving, and monitoring ML workflows in production.  
 - Advocate for cloud cost optimization, observability, and reliability engineering.  
